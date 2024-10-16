@@ -48,8 +48,4 @@ The project includes an **Executive Dashboard** created in **Preset**. The dashb
 - **Snowflake**: Ensure you have access to a Snowflake instance.
 - **Preset**: Set up a Preset instance for visualization (alternatively, you can use Apache Superset).
 
-### Steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/airbnb-berlin-dbt-snowflake-preset.git
